@@ -15,7 +15,7 @@ is_a: DDSTRAINCHAR:0000001 ! strain characteristic
 
 [Term]
 id: DDSTRAINCHAR:0000003
-name: axenic
+name: axenic bitch
 is_a: DDSTRAINCHAR:0000001 ! strain characteristic
 
 [Term]
@@ -196,7 +196,7 @@ is_a: DDSTRAINCHAR:0000001 ! strain characteristic
 
 [Term]
 id: DDSTRAINCHAR:0000038
-name: mutant
+name: mad mutant
 is_a: DDSTRAINCHAR:0000001 ! strain characteristic
 
 [Term]
